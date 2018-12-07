@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    data-username:
+    data-password:
+    driver-class-name:
+    jndi-name:
+    url:
+    platform:
+  aop:
+    auto: true
+    proxy-target-class: true
+  activemq:
+    broker-url:
+    in-memory: true
